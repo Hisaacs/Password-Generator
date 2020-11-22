@@ -39,7 +39,7 @@ Below are screenshot for illustrations
 
 3. Alerts user, if the amount of characters selected falls outside of the range.
 
-![Password_Generator_3](https://user-images.githubusercontent.com/19741669/99901246-26d1f800-2cf0-11eb-9027-d1b905f32854.PNG)
+![Password_Generator_3](https://user-images.githubusercontent.com/19741669/99901894-eaed6180-2cf4-11eb-8387-152b0f1f5907.PNG)
 
 4. Alerts user based on the number of characters entered.
 
